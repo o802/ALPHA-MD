@@ -15,8 +15,8 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
 const config = {
     session: process.env.SESSION_ID || 'keith',
     PREFIXE: process.env.PREFIX || "",
-    OWNER_NAME: process.env.OWNER_NAME || "Keith",
-    NUMERO_OWNER: process.env.NUMERO_OWNER || "254743995989",     
+    OWNER_NAME: process.env.OWNER_NAME || "𝕴𝕿𝖅 𝕭𝕽𝕴𝕬𝕹",
+    NUMERO_OWNER: process.env.NUMERO_OWNER || "2347026138384",     
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',    
     URL: process.env.URL || "https://files.catbox.moe/6hd2t7.jpg",                         
     AUTO_BLOCK: process.env.AUTO_BLOCK || 'no', 
